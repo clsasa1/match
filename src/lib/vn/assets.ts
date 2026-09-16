@@ -26,6 +26,7 @@ export const BACKGROUNDS: Record<BackgroundId, string> = {
   drive: "/bg/drive.jpg",
   tesla: "/bg/tesla.jpg",
   "cg-alf": "/bg/cg-alf.jpg",
+  novoselye: "/bg/novoselye.jpg",
 };
 
 export const IRA: Record<IraExpr, string> = {

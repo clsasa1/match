@@ -38,7 +38,8 @@ export type BackgroundId =
   | "future"
   | "drive"
   | "tesla"
-  | "cg-alf";
+  | "cg-alf"
+  | "novoselye";
 
 export type NodeUi = "chat" | "contract" | "chapter";
 
