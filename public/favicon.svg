@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="7" fill="#16110e"/>
+  <!-- left cup -->
+  <path fill="#f3ebe3" d="M5 13.5h8.2c.7 0 1.2.6 1.15 1.28l-.7 7.4C13.45 24.1 12 25.5 10.1 25.5H8.1C6.2 25.5 4.75 24.1 4.55 22.18l-.7-7.4C3.8 14.1 4.3 13.5 5 13.5z"/>
+  <path fill="none" stroke="#c4a484" stroke-width="2.2" stroke-linecap="round" d="M14.4 15.4c2.35.15 3.55 1.55 3.45 3.35-.1 1.7-1.4 3-3.5 3.15"/>
+  <!-- right cup, slightly forward -->
+  <path fill="#c4a484" d="M16.2 11.8h8.2c.7 0 1.2.6 1.15 1.28l-.7 7.4C24.65 22.4 23.2 23.8 21.3 23.8h-2C17.4 23.8 15.95 22.4 15.75 20.48l-.7-7.4c-.05-.68.45-1.28 1.15-1.28z"/>
+  <path fill="none" stroke="#f3ebe3" stroke-width="2.2" stroke-linecap="round" d="M25.6 13.7c2.35.15 3.55 1.55 3.45 3.35-.1 1.7-1.4 3-3.5 3.15"/>
+  <!-- steam -->
+  <path fill="none" stroke="#c9897b" stroke-width="1.6" stroke-linecap="round" d="M8.8 11.2c0-1.2.9-1.5.9-2.6"/>
+  <path fill="none" stroke="#c9897b" stroke-width="1.6" stroke-linecap="round" d="M20.2 9.6c0-1.2.9-1.5.9-2.6"/>
+</svg>
